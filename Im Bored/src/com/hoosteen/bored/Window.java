@@ -6,6 +6,7 @@ import java.awt.Rectangle;
 
 public class Window extends Drawable{
 	
+	//Update
 	float savedX;
 	float savedY;
 	int savedWidth;
